@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
+    --bg-color: #fff;
+    --text-color: #111;
+  }
+  
+  html[data-theme="dark"] {
+    --bg-color: #18181b;
+    --text-color: #f1f1f1;
+  }
+  
+  body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background 0.35s, color 0.35s;
+  }
+  
+  body, #root, .container, .app, .main, h1, h2, h3, h4, h5, h6, p, span, div {
+    color: var(--text-color);
+  } */
